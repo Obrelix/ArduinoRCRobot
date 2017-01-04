@@ -1089,6 +1089,7 @@ namespace ArduinoWebCam
                 Char_Command = "0";
             }
         }
+
     }
 
 
